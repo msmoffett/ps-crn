@@ -3,7 +3,7 @@
 ## Introduction
 
 There have been several impactful architectural shifts in IT over the past several years, but none larger than the
-public cloud.  The benefits and strategic “cloud first” mandates within the US Federal agencies have created a new set
+public cloud.  The benefits and strategic “cloud first” (should "Cloud First" be changed to "Cloud Smart" to align to the OMB proposal found here https://www.federalregister.gov/documents/2018/09/25/2018-20819/request-for-comments-on-2018-federal-cloud-computing-strategy) naming conventionmandates within the US Federal agencies have created a new set
 of requirements as the applications move from the on-prem data center, to the remote, less controlled public cloud
 (IaaS/SaaS).  This transformation of application “location” is having an impact on several indirect factors,
 specifically how agencies approach next-generation WAN designs requirements, but also security, specifically controlling
